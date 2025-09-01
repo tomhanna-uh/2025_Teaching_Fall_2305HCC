@@ -1,7 +1,7 @@
 ---
 title: |
     | GOVT2305: Federal Government
-    | Lectures 4: Constitutional Safeguards
+    | Lecture 5: Constitutional Safeguards
 author:
   - name: Tom Hanna
     id: th
@@ -13,14 +13,23 @@ author:
         city: Houston
         state: TX
         url: uh.edu/class/political-science/
-date: July 2025
+date: September 3, 2025
 format: 
+        pdf: 
+                toc: true
+                toc-depth: 2
+                number-sections: true
+                fig-width: 5.5
+                fig-height: 4
+                fig-caption: true
+                fontsize: 12pt
+                geometry: margin=1in
         revealjs:
                 self-contained: true
                 transition: convex
                 theme: [default,../assets/custom.css]
                 logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+                footer: "HCC GOVT2305, Fall 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
 ---
 
 # Agenda and Announcements
@@ -36,48 +45,21 @@ format:
 - Activity/discussion:
 
         - Ethics and limits on government
+        - Why is government power limited?
         
-- Quiz: Module 1
+
 
 
 ## Next Week's Agenda
 
-- Monday Lecture: Misinformation
-- Monday Discussion/Activity: Memes Exercise
-- Tuesday Lecture: Civil Liberties
-- Tuesday Discussion: Civil Liberties and Majority Power
+- Lecture: Misinformation
+- Discussion/Activity: Memes Exercise
 
 
 
 
-## Announcements
 
-Submit a political meme on Canvas by Monday morning
-        
-- You do not need to create a meme
-- Find a meme that you think is political preferably one that has been in your actual social media feed - Instagram, Twitter (X)
-- Short TikToks are fine! Instagram Reels are better! I need TikToks by Saturday
-- If you choose to use a search engine, please look for a specific topic so we don't have just one or two memes
-        
-        
-        
-## Reminders
-
-- Monday Journals Due
-
-        - Chapter 7 - Journal Due July 21
-        - Chapter 8: Political Parties, Candidates, and Campaigns: Defining the Voter’s Choice
-
-- Tuesday Journals Due
-
-        - One combined entry for Chapter 6: Public Opinion and Political Socialization: Shaping the People’s Voice, Chapter 9: Interest Groups: Organizing for Influence, Chapter 10: The News Media and the Internet: Communicating Politics
-
-- Tuesday Study Guide Due for Module 2
-- Tuesday Module 2 Quiz 
-
-
-
-# Today's Topic: Separation of Powers, Federalism, Checks and Balances
+# Today's Topic: Separation of Powers, Checks and Balances, Federalism
 
 ## Review
 
@@ -87,7 +69,11 @@ Submit a political meme on Canvas by Monday morning
         - Great power to do bad if resort to corecive violence is necessary because there is not wide agreement
 
 
-## Why do we care about the Constitution
+## Why do we care about the Constitution?
+
+![Constitution](constitution_bowl.png)
+
+## Why do we care about the Constitution?{background-image="constitution_bowl.png"}
 
 - The Constitution set out a system to limit the power of government to allow for the good and limit the bad
 
@@ -477,43 +463,52 @@ Answer: True
 
 ## State Powers
 
-::: {.custom-style style="font-size: 80px;"}
-MURDER!
-:::
-- Assault, battery, kidnapping, almost all crimes of violence
+![State Powers](state_powers.png)
 
 
 
-## State Powers
+## State Powers: Criminal Law
 
-::: {.custom-style style="font-size: 80px;"}
-THEFT!
-:::
-- fraud, robbery, trespassing, almost all crimes against property
+- Crimes of violence: 
 
+        - Murder
+        - Assault
+        - Battery
+        - Kidnapping
+        - Robbery
+        - Sexual assault
+        - Domestic violence
+        
+- Property and financial crimes
 
-## State Powers
-
-::: {.custom-style style="font-size: 80px;"}
-PROPERTY REGISTRATION!
-:::
-
-
-
-## State Powers
-
-::: {.custom-style style="font-size: 80px;"}
-BUSINESS FORMATION and CONTRACTS           
-:::
-Most laws relating to contracts, types of businesses, liability, and more
+        - Theft
+        - Fraud
+        - Trespassing
 
 
 
-## State Powers
 
-::: {.custom-style style="font-size: 80px;"}
-INSURANCE          
-:::
+
+## State Powers: Regulations and Civil Laws
+
+- Property registration
+
+        - homes and land
+        - commercial and industrial real estate
+        - vehicles
+
+- Financial matters
+        
+        - Banking
+        - Securities
+        - Inheritance and estate laws
+        - Insurance
+        
+- Civil Law
+
+        - Liability
+        - Contracts
+
 
 
 ## State Powers
@@ -521,7 +516,7 @@ INSURANCE
 ::: {.custom-style style="font-size: 80px;"}
 ALMOST EVERYTHING *INTRASTATE*      
 :::
-Intrastate is within a single state's borders
+
 
 
 

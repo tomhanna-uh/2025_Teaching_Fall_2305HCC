@@ -1,11 +1,10 @@
 ---
 title: |
     | GOVT2305: Federal Government
-    | Lecture 2: What is government? What is politics?
-author: "Instructor: Tom Hanna, Spring 2025"
-date: July 8, 2025
+    | Lecture 2 and 3: What is government? What is politics?
+author: "Instructor: Tom Hanna, Fall 2025"
+date: August 20, 2025
 format: 
-        pdf: default
         revealjs:
                 self-contained: true
                 transition: convex
@@ -20,43 +19,27 @@ format:
 
 - Today
 
-        - What is Government? What is politics?
+        - What is Government? What is politics? Part 1 - 
         - Discussion: Experiences with Government
         - Questions
         
         
 - Next class (Monday):
 
-        - Basic ethics
-        - Discussion of personal ethics
-        
-- Tuesday:
-
-        - Constitutional Safeguards
-        - Ethics and limits on government discussion (why do we need Constitutional safeguards? What should be prevented?)
+        - What is Government? What is politics? Part 2
         
 
-## Assignments Due
-
-- Journals July 14
-
-        - Chapter 1: Political Thinking and Political Culture: Becoming a Responsible Citizen
-        - Chapter 2: Constitutional Democracy: Promoting Liberty and Self-Government
         
-- Journals July 15:
-        
-        - Chapter 3: Federalism: Forging a Nation
-        - Chapter 4: Civil Liberties: Protecting Individual Rights
-        
-- Study Guide Module 1
 
-        - Due July 15
-        - Quiz July 15 in class
+## Reminder
+
+- Module 0 Due September 2
+- Start with Module 1
         
         
 
   
-# Introduction to Government
+# Introduction to Government: Part 1 "What does government do?"
 
 ## Introduction to Government
 
@@ -70,18 +53,59 @@ To really understand government and politics we first need to know what those th
 What is government or "The State"?
 :::
 
+
+## A word on words
+
+Words often have multiple meanings
+
+- Apple
+
+        - A fruit
+        - A tech company
+        - A record label
+        - A computer made by the tech company
+        
+- Glass
+
+        - Something we drink from
+        - A material
+        - A mirror
+        
+        
+
+
+
+
 ## A word on words
 
 - Government can mean multiple things
 
         - The specific group of people in charge of...
-        - The enduring institution or organization we  government
+        - The enduring institution or organization we call government
+        
+## A word on words
+
+- Government can mean multiple things
+
+        - The specific group of people in charge of...
+        - The enduring institution or organization we call government
+
+For us, generally the second meaning: the enduring institution or organization we call government.
+
+
+
+
+## A word on words
 
 - State has at least three meanings
 
         - International: State = independent country
         - United States: State = one of the 50 states
         - Political Science: State = government
+        
+All of these apply in this class
+
+## A word on words
         
 - Politics
 
@@ -95,12 +119,15 @@ What is government or "The State"?
 How can we define government?
 :::
 
-- What government does?
+- What government does? (Today)
+- What is unique about government? (Monday)
+
+
 
 ## What is government?
 
 ::: {.custom-style style="font-size: 80px;"}
-How can we define government?
+How can we define politics?
 :::
 
 - What government does?
@@ -184,6 +211,8 @@ Why does politics have such power to cause harm?
 These are all examples of *collective action*, organized action by a group of people to achieve a common goal.
 :::
 
+
+# What is government Part II: What makes government different?
 
 ## What makes government different?
 

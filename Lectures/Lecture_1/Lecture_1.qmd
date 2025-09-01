@@ -2,41 +2,17 @@
 title: |
     | GOVT2305: Federal Government
     | Course Introduction
-author: "Instructor: Tom Hanna, Summer 2025"
-date: July 7, 2025
+author: "Instructor: Tom Hanna, Fall 2025"
+date: August 18, 2025
 format: 
         revealjs:
                 self-contained: true
                 transition: convex
                 theme: [default,../assets/custom.css]
                 logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>" 
+                footer: "HCC GOVT2305, Fall 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>" 
 ---
 
-# First Week's Agenda
-
-## Today July 7
-
-        - Course Outline/Procedures, Overview of Objectives
-        - Introductions
-        - Brief overview of Canvas
-        - Study tips
-        - Question and answer
-
-## Tuesday July 8
-
-        - Introduction to the topic of government: What is Government? What is Politics?
-        - Activities/Discussion: Experiences with Government
-        - Question and Answer
-  
-## Due Dates Begin Immediately
-
-        - First journal assignment due tomorrow, July 8 at the start of class
-        - REQUIRED Syllabus Quiz Due Sunday, July 13, 11:59 PM
-        - REQUIRED Extre Credit Quiz Due Sunday, July 13, 11:59 PM
-        - Module 1 Due Tuesday, July 15, 11:59 PM
-        - Module 2 Quiz - In Class Tuesday, July 15
-        
 ## Introduction
 
 - Welcome to GOVT2305: Federal Government
@@ -58,12 +34,57 @@ format:
         - cooking, camping, kayaking, and computer gaming
         
 
+
+# First Week's Agenda
+
+## Today - August 18
+
+        - Course Outline/Procedures, Overview of Objectives
+        - Introductions
+        - Brief overview of Canvas
+        - Study tips
+        - Question and answer
+
+## Wednesday - August 20
+
+        - Introduction to the topic of government: What is Government? What is Politics?
+        - Activities/Discussion: Experiences with Government
+        - Question and Answer
+  
+## Due Dates 
+
+- Module 0 - September 2
+
+        - Syllabus Quiz
+        - Preliminary "Mythbusters" Quiz
+        - AI and Plagiarism Quiz
+
+
+- Module 1 - September 22
+        
+        - Module 1 Due - September 22
+        - Module 1 Study Guide Day - September 22
+        
+- Module 1 Quiz: In class September 24
+
+## This Week Look For
+
+- Module 0 in Canvas
+- Module 1 in Canvas
+- Office Hours Schedule and links on Homepage
+
+
+        
+
+
 ## Lecture vs Textbook
 
 - The lecture is not a substitute for the textbook
 - The textbook is not a substitute for the lecture
 - The textbook provides a description of institutions and concepts in the American system
 - The lecture will focus on why these things matter
+- Both are testable
+
 
 ## Lecture Overview
 
@@ -71,6 +92,7 @@ format:
 - Ethics of and in government
 - What are the ethical consequences of the nature of government? Why do we need to limit government in a democracy/why limit majorities?
 - How do we limit government in a democracy? In the US system in particular?
+
 
 ## Lecture Overview
 
@@ -98,9 +120,10 @@ format:
 
 - To receive full credit for the in class work each day (20% of your grade), you must come to class prepared
 - Part of this means at least reviewing the assigned chapter
-- Completing the Journal assignments as schedule will help with this, with doing well on the exams, and with understanding the material
-- If discussion reflects that people are prepared, we will not have to have quizzes and everyone will get full credit
+- If discussion reflects that people are prepared, we will not have to have quizzes and everyone will get full credit for whatever activity we have that day
 - If discussion is bad, there will be quizzes or people who are not prepared may lose credit
+
+
         
         
 ## Course Outline/Procedures
@@ -122,7 +145,7 @@ format:
 - Please read the Syllabus
 - Textbook homework, quizzes, and much other information are in the Canvas Modules
 
-        - They are here!
+
         
 ## Course Outline/Procedures
 
@@ -139,6 +162,8 @@ format:
 -  You can retake it as many times as necessary
 
 
+
+
 ## Course Outline/Procedures (Continued)
 
 - Check Canvas Announcements for any updates, further instructions, etc. 
@@ -153,38 +178,21 @@ format:
         
 
 
-## Syllabus Quiz and Extra Credit Quiz
+## Module 0 Quizzes
 
 
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND **it is required**
-
-        - Even if you miss everything, you get 1 point for taking it
-        
-        
-## Syllabus Quiz and Extra Credit Quiz
-
-- No class September 4! Introduction Module Work Day!
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND **it is required**
+- The Syllabus Quiz *is required* and you must get all the points
+- The Preliminary "Mythbusters" Quiz **is required**
 
         - Even if you miss everything, you get 1 point for taking it
-        - You are required to take it.
+        - I will add the extra point after everyone finishes
         
-## Syllabus Quiz and Extra Credit Quiz
+- The AI and Plagiarism Quiz **is required** and you must get 10/11 to continue with the course
 
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND **it is required**
 
-        - Even if you miss everything, you get 1 point for taking it
-        - You are required to take it
-        - You can only take it once
         
-## Syllabus Quiz and Extra Credit Quiz
 
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND it is required
-- Introduction Module complete by 11:59 PM, September 4...
+        
 
 
 ## Course Policies: Basics
@@ -250,7 +258,7 @@ https://sacscoc.org/app/uploads/2019/08/Credit-Hours.pdf
 ## Commitment
 
 ::: {.custom-style style="font-size: 75px;"}
-If 80% of the work is outside of class, what does that tell you about who has the major responsibility for your success or failure?
+If two-thirds of the work is outside of class, what does that tell you about who has the major responsibility for your success or failure?
 :::
         
 ## Professionalism
@@ -258,11 +266,18 @@ If 80% of the work is outside of class, what does that tell you about who has th
 - Professionalism is a graded component of this class. 
 
 
+## Professionalism
+
+- Professionalism is a graded component of this class. 
+- Everyone starts with 100 points for this and can lose points for unprofessional behavior
+
+
 
 ## Professionalism
 
 - Professionalism is a graded component of this class. 
-- A major hallmark of professionalism is taking responsibility for doing what is expected of you and not blaming others for the consequences if you do not. 
+- Everyone starts with 100 points for this and can lose points for unprofessional behavior
+- Major hallmarks of professionalism are *taking responsibility* for doing what is expected of you and *accepting the consequences* of your actions. 
 
 
 
@@ -272,7 +287,9 @@ If 80% of the work is outside of class, what does that tell you about who has th
 
         - If you don't attend class and pay attention...
         - If you don't put in two hours a week of real work outside class...
-        - If you don't do the assignments...
+        - If you don't do the textbook assignments...
+        - If you don't do the in class assignments...
+        - If you don't do the Module Study Guides...
         - If you don't study for the exams...
 
 Who is responsible for the consequences?
@@ -310,17 +327,107 @@ Who is responsible for the consequences?
 
 I am not responsible for:
 
-I am not responsible for:
-
         - Forcing you to work
         - Doing your work for you
-        - Navigating the HCC bureaucracy for you 
         - Anything your other professors require of you that may interfere with this class 
-        - Giving credit for work that is not submitted - I will not
-        - Granting extensions, makeups, or other exceptions to the syllabus - I will not
-        - Negotiating excuses - I will not
-        - Negotiating grades - I will not
+        - Giving credit for work that is not submitted 
+        - Granting extensions, makeups, or other exceptions to the syllabus
+        - Negotiating excuses 
+        - Negotiating grades 
         
+        
+        
+
+        
+
+## Course Policies: Grade Points
+
+- Module 0 and Miscellaneous
+        
+        - Syllabus Quiz = 6.6 points
+        - AI Quiz = 11 points
+        - Preliminary "Mythbusters" Quiz = 6 points
+        - Professionalism = 100 points
+        - Attendance bonus = 5 points per day
+        
+- Assignments
+
+        - 13 in class assignments = 260 points (~300 available)
+        - 4 study guides = 100 points
+        - 10 Connect assignments = 250 points (350 available)
+        
+- Exams 
+
+        - 4 Quizzes and Final Exam = 300 points
+
+
+
+
+
+
+## Course Policies: Grade Points
+
+Total: > 1280 points
+
+
+- 900+ = A+
+- 800-899 = B
+- 700-799 = C
+- 600-699 = D
+- 0-599 = F
+        
+        
+        
+## Course Policies: Late Work and Makeups
+
+- Late textbook homework is automatically accepted *with penalty*
+- Makeups for exams - the final is the makeup, automatic!
+- Makeup for in class work participation exercises, etc.
+
+        - The total for figuring grades is 260 points
+        - Over 360 points will be available so...
+       
+        
+        
+## Course Policies: Late Work and Makeups
+
+- Late textbook homework is automatically accepted *with penalty*
+- Makeups for exams - the final is the makeup, automatic!
+- Makeup for in class work participation exercises, etc.
+
+        - The total for figuring grades is 260 points
+        - Over 360 points will be available so...
+        - No makeups, no exceptions for any reason
+   
+        
+        
+
+## Course Policies: Grades, Late/Missed Work, Professionalism
+
+
+- **This is already a very generous policy - No exceptions**
+
+- **Asking for special treatment is asking me to do something unethical and may affect your professionalism grade**
+
+
+
+
+## Module Study Guides
+
+- These out of class written assignments will not be accepted late
+- Answers to short answer questions will be posted on the due date to further help you study
+
+
+
+## Course Policies: Attendance and Participation
+
+- HCC requires attendance
+- There will be almost daily short written exercises
+- These will only be done in class
+- There are bonus points for each day of attendance
+- Because of the number of points available, there will be no excused/dropped/makeup days 
+- No exceptions
+
         
         
 ## Course Policies: Communications
@@ -397,64 +504,6 @@ I am not responsible for:
 - There will be little to no need to email me because...
 
 
-## Course Policies: Late Work and Makeups
-
-- Late textbook assignments are automatically accepted and one is dropped
-
-        - 10% per day penalty
-        - No exceptions, no excuses!!!
-        - No need to email!!!
-        - No need to apologize or explain!!!
-        - All work must be turned in by August 7
-        
-        
-## Course Policies: Late Work and Makeups
-
-- Late work is automatically accepted with penalty      
-- Makeups for exams
-
-        - The final is your makeup for any missed exams
-        - You will get the percentage score for the final applied to any missed exam
-        - No excuses, no exceptions
-        - This is completely automatic
-        - No emails or apologies required
-        - Let your grandmothers know their lives are safe from this class!
-
-
-## Course Policies: Late Work and Makeups
-
-- Late work is automatically accepted with penalty      
-- Makeups for exams - the final is the makeup, automatic
-- Makeup for in class work participation exercises, etc.
-
-        - I will drop scores for one days work automatically
-        - Two days is 20% of the course, so even with a medical excuse that is an unacceptable absence level
-        - No makeups, no exceptions for any reason
-        
-        
-## Course Policies: Late Work and Makeups
-
-- Late textbook homework is automatically accepted *with penalty*
-- Makeups for exams - the final is the makeup, automatic!
-- Makeup for in class work: three dropped, no makeups!
-
-- **This is already a very generous policy - No exceptions**
-
-- **Asking for special treatment is asking me to do something unethical and may affect your professionalism grade**
-
-## Journals and Study Guides
-
-- These out of class written assignments will not be accepted late
-- 4 of the Journals and 1 of the Study Guides will be dropped instead
-
-
-## Course Policies: Attendance and Participation
-
-- HCC requires attendance
-- There will be almost daily short written exercises
-- These will only be done in class
-- I will drop the three lowest scores including missed classes
-- No other makeups will be allowed
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: |
     | GOVT2305: Federal Government
-    | Lectures 3: Ethics in Government
+    | Lectures 4: Ethics in Government
 author:
   - name: Tom Hanna
     id: th
@@ -13,15 +13,14 @@ author:
         city: Houston
         state: TX
         url: uh.edu/class/political-science/
-date: July 2025
+date: August 27, 2025
 format: 
-        pdf: default
         revealjs:
                 self-contained: true
                 transition: convex
                 theme: [default,../assets/custom.css]
                 logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+                footer: "HCC GOVT2305, Fall 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
 ---
 
 # Agenda and Announcements
@@ -38,29 +37,22 @@ format:
         - Personal Ethics
         - The problem of violence
         
-- Due Tomorrow
-
-        - Journal -  Chapter 1: Political Thinking and Political Culture: Becoming a Responsible Citizen
-        - Journal - Chapter 2: Constitutional Democracy: Promoting Liberty and Self-Government
-        - Study Guide: Module 1
-        
-
 
 ## Tuesday Agenda
 
 - Lecture 
 
-        - Constitutional Safeguards
+        - Constitutional Safeguards: Part 1
         - Checks and Balances
         - Separation of Powers
-        - Federalism
+
         
-- Activity 
+- Activity/Discussion
 
         - Ethics and limits on government
         - Why is government power limited?
         
-- Module 1 Quiz
+
 
 
 
@@ -87,7 +79,6 @@ format:
 ## Purpose and Expectations
 
 
-- We will be exploring the topic together. 
 - I don't have "right" answers, just questions and suggestions.
 - If I express an opinion, you can disagree!
 - There will be a few terms and concepts you should learn.
